@@ -15558,7 +15558,7 @@
                 }
                 if (2 & e) {
                     const t = we(2).$implicit;
-                    pc("src", "https://cdn.discordapp.com/app-assets/", t.application_id, "/", null == t.assets ? null : t.assets.small_image, ".png", Ct), In("alt", t.type)
+                    pc("src", "https://cdn.discordapp.com/app-assets/", t.application_id, "/", null == t.assets ? null : t.assets.small_image, ".gif", Ct), In("alt", t.type)
                 }
             }
 
@@ -15571,7 +15571,7 @@
                 }
                 if (2 & e) {
                     const t = we().$implicit;
-                    pc("src", "https://cdn.discordapp.com/app-assets/", t.application_id, "/", null == t.assets ? null : t.assets.large_image, ".png", Ct), In("alt", t.type), U(), Vt(1, null != t.assets && t.assets.small_image ? 1 : -1)
+                    pc("src", "https://cdn.discordapp.com/app-assets/", t.application_id, "/", null == t.assets ? null : t.assets.large_image, ".gif", Ct), In("alt", t.type), U(), Vt(1, null != t.assets && t.assets.small_image ? 1 : -1)
                 }
             }
 
