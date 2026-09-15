@@ -15490,7 +15490,7 @@
             function q4(e, n) {
                 if (1 & e && Ce(0, "img", 11), 2 & e) {
                     const t = we(2);
-                    xn("src", "https://cdn.discordapp.com/avatar-decoration-presets/", null == t.userData || null == t.userData.user || null == t.userData.user.avatar_decoration_data ? null : t.userData.user.avatar_decoration_data.asset, ".png", Ct)
+                    xn("src", "https://cdn.discordapp.com/avatar-decoration-presets/", null == t.userData || null == t.userData.user || null == t.userData.user.avatar_decoration_data ? null : t.userData.user.avatar_decoration_data.asset, ".gif", Ct)
                 }
             }
 
