@@ -15635,7 +15635,7 @@
                     const t = we();
                     U(), pr("ngStyle", Pw(19, H4, t.themesColor[0], t.themesColor[1])), U(2), pr("ngStyle", function Rw(e, n, t, r) {
                         return Fw(_(), lt(), e, n, t, r)
-                    }(22, z4, "url(" + t.apiUrl + "banner/" + t.ProfileId + ")")), U(3), xn("href", "https://discord.com/users/", t.ProfileId, "", Ct), U(), Vt(7, null != t.userData && null != t.userData.user && null != t.userData.user.avatar_decoration_data && t.userData.user.avatar_decoration_data.asset ? 7 : -1), U(2), In("src", t.apiUrl + "avatar/" + t.ProfileId + ".jpg", Ct), U(), pr("ngClass", function kw(e, n, t, r, o, i, s, a, l, c, u) {
+                    }(22, z4, "url(" + t.apiUrl + "banner/" + t.ProfileId + ")")), U(3), xn("href", "https://discord.com/users/", t.ProfileId, "", Ct), U(), Vt(7, null != t.userData && null != t.userData.user && null != t.userData.user.avatar_decoration_data && t.userData.user.avatar_decoration_data.asset ? 7 : -1), U(2), In("src", t.apiUrl + "avatar/" + t.ProfileId + ".gif", Ct), U(), pr("ngClass", function kw(e, n, t, r, o, i, s, a, l, c, u) {
                         const d = lt() + e,
                             f = _(),
                             h = Gt(f, d, t, r, o, i);
